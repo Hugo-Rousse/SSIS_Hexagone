@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS_Hexagone", "SSIS_Hexagone\SSIS_Hexagone.dtproj", "{25DDCD56-BFA4-48EC-82BD-51BC44FB23F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DDCD56-BFA4-48EC-82BD-51BC44FB23F3}.Development|Default.ActiveCfg = Development
+		{25DDCD56-BFA4-48EC-82BD-51BC44FB23F3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {063E92E1-4E2B-45AD-A333-FCBA00BEC21B}
+	EndGlobalSection
+EndGlobal

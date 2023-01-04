@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ODS"
+  DTS:DTSID="{AC6D402E-27E9-4F80-8EAC-B5156AC79BD9}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Hexagone_ODS;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package1-{AC6D402E-27E9-4F80-8EAC-B5156AC79BD9}.\SQLEXPRESS.Hexagone_ODS;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
